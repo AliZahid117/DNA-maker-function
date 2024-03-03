@@ -88,5 +88,5 @@ const create30SurvivableInstances = () => {
 const survivableInstances = create30SurvivableInstances();
 console.log(survivableInstances.length); // Outputs: 30
 
-console.log(survivableInstances); // Outputs: the survivable dna strands
+console.log(survivableInstances); // Outputs: the survivable DNA strands
 
